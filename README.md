@@ -1,6 +1,6 @@
 # pc_part_picker
 
-To run these tests: 
+-To run these tests: 
 1. clone the project on your computer
 2. download Katalon Studio from this url https://www.katalon.com/download/
 3. unzip it
@@ -8,8 +8,8 @@ To run these tests:
 5. click on Tools -> Update WebDrivers -> and select the browser you are using (let it install/update WebDriver for your browser)
 6. click on 'Open Project' and select the cloned project folder 'pc-part-picker'
 
-To run test cases individually go to Test Cases -> Web -> Tests and select the test case you would like to run
+-To run test cases individually go to Test Cases -> Web -> Tests and select the test case you would like to run
 
-To run the whole test suite go to Test Suites and select Sanity_tests and run it
+-To run the whole test suite go to Test Suites and select Sanity_tests and run it
 
-Reports gets generated when you run a Test Suite and gets stored in the Reports folder
+-Reports gets generated when you run a Test Suite and gets stored in the Reports folder
