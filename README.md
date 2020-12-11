@@ -4,7 +4,8 @@
 1. clone the project on your computer
 2. download Katalon Studio from this url https://www.katalon.com/download/
 3. unzip it
-4. run katalon.exe (no installation needed)
+4. run katalon.exe (no installation needed)(if you are a Mac user on macOS Catalina then you need to run this command first
+xattr -d com.apple.quarantine /path/to/file)
 5. click on Tools -> Update WebDrivers -> and select the browser you are using (let it install/update WebDriver for your browser)
 6. click on 'Open Project' and select the cloned project folder 'pc-part-picker'
 
